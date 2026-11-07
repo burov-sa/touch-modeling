@@ -1,4 +1,4 @@
-**English** | [Русский](README.ru.m
+**English** | [Русский](README.ru.m)
 
 # Touch Point Localization with Keras DNN
 
