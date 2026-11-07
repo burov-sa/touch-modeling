@@ -1,3 +1,5 @@
+[English](README.md) | **Русский**
+
 # Touch Point Localization with Keras DNN
 
 Synthetic touch-point localization prototype: generate readings from a 3×4 sensor grid, train a small Keras DNN, and predict continuous touch coordinates `(x, y)`.
